@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi! My name is **{{ site.author.name }}** :wave:<br>
+I will be starting a Ph.D. in computer science at the University of Missouri (<a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>Mizzou</a>) this fall. After finishing my graduate program, I am very interested in pursuing a career in machine learning, artificial intelligence, and data science research. Applications of these technologies that intrigue me the most are their innovative uses in bioinformatics, computational biology, medicine, health care, computer vision, natural language processing, and a host of other fields like computer graphics and simulations.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
