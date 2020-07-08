@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Software Development Intern, Altec
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: • Reduce miscommunication between service centers globally by engineering new Angular web applications<br>
+               • Maintain the testing environments of in-house applications by writing LINQ queries and tuning up test databases<br>
+               • Build secure back end APIs with the Spring framework in an agile development setting
+
+- title: Undergraduate Student, Missouri Western CS
+  from: 2016
+  to: 2020
+  description: • Alpha Chi Honor Society, Lambda Chapter<br>
+               • Kappa Mu Epsilon Honor Society - President of the Missouri Lambda Chapter<br>
+               • Honors Program<br>
+               • 2017 NCNA Regional Programming Contest<br>
+               • 2017 Grand Midwest Asynchronous Programming Contest<br>
+               • 2018 CSCC Central Plains Poster Competition & Programming Contest<br>
+               • 2019 Alpha Chi National Convention Research & Creativity Forum
