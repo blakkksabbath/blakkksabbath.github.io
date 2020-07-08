@@ -3,5 +3,5 @@
     <i>Based on portfolYOU, a beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
     <br><br>
     <img src="screenshot.gif">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+    <sub><sup>© 2020 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
 </div>
