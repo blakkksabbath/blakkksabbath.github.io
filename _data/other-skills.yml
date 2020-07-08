@@ -1,7 +1,7 @@
-- name: Research
-  percentage: 85
-  color: success
-
-- name: Music (Drums, Guitar, etc.)
+- name: Music
   percentage: 75
   color: info
+
+- name: Research
+  percentage: 65
+  color: success
