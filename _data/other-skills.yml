@@ -2,7 +2,7 @@
   percentage: 80
   color:
 
-- name: Long-Distance Running
+- name: Running
   percentage: 75
   color: 
 
@@ -10,18 +10,10 @@
   percentage: 70
   color: danger
 
-- name: Machine Learning
-  percentage: 65
-  color: danger
-
-- name: Mandarin Chinese
+- name: Chinese
   percentage: 60
   color: danger
 
-- name: Bioinformatics
-  percentage: 55
-  color: danger
-
-- name: Video Editing
+- name: Japanese
   percentage: 50
   color: danger
