@@ -6,15 +6,15 @@
   percentage: 75
   color: 
 
-- name: Full Stack Development
-  percentage: 70
-  color:
-
 - name: Research
-  percentage: 65
+  percentage: 70
   color: danger
 
 - name: Machine Learning
+  percentage: 65
+  color: danger
+
+- name: Mandarin Chinese
   percentage: 60
   color: danger
 
