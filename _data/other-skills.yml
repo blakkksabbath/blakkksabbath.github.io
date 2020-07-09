@@ -1,7 +1,27 @@
 - name: Music
+  percentage: 80
+  color:
+
+- name: Long-Distance Running
   percentage: 75
-  color: info
+  color: 
+
+- name: Full Stack Development
+  percentage: 70
+  color:
 
 - name: Research
   percentage: 65
-  color: success
+  color: danger
+
+- name: Machine Learning
+  percentage: 60
+  color: danger
+
+- name: Bioinformatics
+  percentage: 55
+  color: danger
+
+- name: Video Editing
+  percentage: 50
+  color: danger

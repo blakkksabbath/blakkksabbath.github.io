@@ -1,6 +1,6 @@
 - name: Python
   percentage: 90
-  color: dark
+  color: success
 
 - name: Java
   percentage: 85
