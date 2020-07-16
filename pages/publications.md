@@ -9,10 +9,6 @@ weight: 2
 
 # **Publications**
 
-- **Alex Morehead**, Elise Edman, Laurie Heyer, and Jeff Poet.<br/>
-**<span style="color: #444444">Variant Sampling in vitro with a Scheduling Twist.</span>**<br/>
-<em>Under Review at Aletheia.</em><br/>
-
 - Owen Koucky, Jacob Wagner, Sofia Aguilera, Benjamin Bashaw, Queena Chen, Anthony Eckdahl, Elise Edman, Paul Gomez, Nick
 Hanlan, Nick Kempf, Devin Mattoon, Sam McKlin, Christopher Mazariegos, **Alex Morehead**, Shi Qing Ong, Andy Peterson, Maria
 Rojas, Kyla Roland, Kaitlyn Schildknecht, Haley Seligmann, Kaden Slater, Ali Tauchen, Raechel Tittor, Tatianna Travieso, Dannie
