@@ -59,12 +59,14 @@ collections:
 disqus: your-short-name-disqus                          # Your website Shortname on disqus
 
 
-### Analytics ###
+### Built-In Google Analytics ###
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
     tracking_id: UA-172070520-1
 
+# Custom Google Analytics (Enabled)
+google_analytics: UA-172070520-1
 
 ### Defaults for collections ###
 defaults:
