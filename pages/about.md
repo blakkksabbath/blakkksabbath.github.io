@@ -8,7 +8,7 @@ weight: 6
 # **About Me**
 
 Hi! My name is **{{ site.author.name }}** :wave:<br>
-I am currently pursuing my Ph.D. in computer science at the University of Missouri (<a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>Mizzou</a>). After finishing my graduate studies, I am very interested in pursuing a career in machine learning, artificial intelligence, and data science research. Applications of these technologies that intrigue me the most are their innovative uses in bioinformatics, computational biology, medicine, health care, computer vision, natural language processing, and a host of other fields like computer graphics and simulations.
+I am currently pursuing my Ph.D. in computer science at the University of Missouri (<a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>Mizzou</a>). After finishing my graduate studies, I am very interested in pursuing a career in machine learning, artificial intelligence, and data science research. Applications of these technologies that intrigue me the most are their innovative uses in bioinformatics, computer vision, natural language processing, and a host of other fields like computer graphics and simulations.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
