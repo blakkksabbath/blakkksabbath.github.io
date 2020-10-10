@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Alex Morehead
 description         : >-
-                      Ph.D. student in Machine Learning
+                      Ph.D. Student in Machine Learning
                       and Bioinformatics <a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>@Mizzou</a>.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : amorehead/amorehead.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
