@@ -8,7 +8,7 @@ weight: 6
 # **About Me**
 
 Hi! My name is **{{ site.author.name }}** :wave:<br>
-I am currently pursuing my Ph.D. in computer science at the University of Missouri (<a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>Mizzou</a>). After finishing my graduate studies, I am very interested in pursuing a career in machine learning, artificial intelligence, and data science research. Applications of these technologies that intrigue me the most are their innovative uses in bioinformatics, computer vision, natural language processing, and a host of other fields like computer graphics and simulations.
+I am a first year Ph.D. student at the University of Missouri (<a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>Mizzou</a>) advised by <a target='_blank' rel='noopener noreferrer' href='http://calla.rnet.missouri.edu/cheng/'>Jianlin Cheng</a>. My research lies at the intersection of machine learning, bioinformatics, and computer vision. In particular, I am interested in research that explores how structured prediction algorithms can be extended by the predictive power of deep neural networks for their innovative uses in computational biology, computer vision, natural language processing, and a host of other fields like computer graphics and simulations. I received my B.S. in computer science with a minor in mathematics from Missouri Western State University (<a target='_blank' rel='noopener noreferrer' href='https://www.missouriwestern.edu/'>MWSU</a>).
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
