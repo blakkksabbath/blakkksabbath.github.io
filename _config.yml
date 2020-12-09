@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Alex Morehead
-  image             : https://amorehead.github.io/assets/img/portfolio_picture.png
+  image             : https://amorehead.github.io/assets/img/portfolio_picture.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : alex.morehead@gmail.com
@@ -63,10 +63,10 @@ disqus: your-short-name-disqus                          # Your website Shortname
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: GTM-5JK6WB2
+    tracking_id: UA-172070520-1
 
 # Custom Google Analytics (Enabled)
-google_analytics: GTM-5JK6WB2
+google_analytics: UA-172070520-1
 
 ### Defaults for collections ###
 defaults:
