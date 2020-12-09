@@ -63,10 +63,10 @@ disqus: your-short-name-disqus                          # Your website Shortname
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: UA-172070520-1
+    tracking_id: GTM-5JK6WB2
 
 # Custom Google Analytics (Enabled)
-google_analytics: UA-172070520-1
+google_analytics: GTM-5JK6WB2
 
 ### Defaults for collections ###
 defaults:
