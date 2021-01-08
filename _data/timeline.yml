@@ -3,9 +3,16 @@
   to: present
   description: • Research machine learning and its applications to bioinformatics and computer vision
 
+- title: Data Science Intern, Altec
+  from: 2021
+  to: present
+  description: • Design and develop end-to-end machine learning pipelines in AWS using Python and R<br>
+               • Collaborate closely with business stakeholders and analysts to understand data and the problem needing to be solved<br>
+               • Work with other development teams to integrate models into user applications
+
 - title: Software Development Intern, Altec
   from: 2018
-  to: present
+  to: 2021
   description: • Reduce miscommunication between service centers globally by engineering new Angular web applications<br>
                • Maintain the testing environments of in-house applications by writing LINQ queries and tuning up test databases<br>
                • Build secure back end APIs with the Spring framework in an agile development setting
