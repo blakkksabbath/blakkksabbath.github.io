@@ -3,6 +3,9 @@ layout: default
 permalink: /
 ---
 
+<br>
+<br>
+
 I am a senior year CS undergraduate student at IIIT Jabalpur, India.
 Currently, I’m interning as a Data Scientist at NeenOpal Inc., where I am working as a
 part of the forecasting team to make predictions for one of the largest tile manufacturing organization in Sri Lanka.
